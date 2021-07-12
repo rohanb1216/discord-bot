@@ -1,0 +1,5 @@
+
+*.pyc
+manifest.sqlite3
+*.content
+MANZIP

@@ -1,0 +1,3899 @@
+{
+    "Response": {
+        "allPvP": {
+            "allTime": {
+                "weaponPrecisionKillsAutoRifle": {
+                    "statId": "weaponPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 680.0,
+                        "displayValue": "680"
+                    },
+                    "pga": {
+                        "value": 0.30343596608656848,
+                        "displayValue": "0.3"
+                    }
+                },
+                "activitiesEntered": {
+                    "statId": "activitiesEntered",
+                    "basic": {
+                        "value": 2241.0,
+                        "displayValue": "2241"
+                    }
+                },
+                "weaponPrecisionKillsBeamRifle": {
+                    "statId": "weaponPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 12.0,
+                        "displayValue": "12"
+                    },
+                    "pga": {
+                        "value": 0.00535475234270415,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsBow": {
+                    "statId": "weaponPrecisionKillsBow",
+                    "basic": {
+                        "value": 66.0,
+                        "displayValue": "66"
+                    },
+                    "pga": {
+                        "value": 0.029451137884872823,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsFusionRifle": {
+                    "statId": "weaponPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsGrenade": {
+                    "statId": "weaponPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsGrenadeLauncher": {
+                    "statId": "weaponPrecisionKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsHandCannon": {
+                    "statId": "weaponPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 565.0,
+                        "displayValue": "565"
+                    },
+                    "pga": {
+                        "value": 0.25211958946898705,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponPrecisionKillsTraceRifle": {
+                    "statId": "weaponPrecisionKillsTraceRifle",
+                    "basic": {
+                        "value": 27.0,
+                        "displayValue": "27"
+                    },
+                    "pga": {
+                        "value": 0.012048192771084338,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsMachineGun": {
+                    "statId": "weaponPrecisionKillsMachineGun",
+                    "basic": {
+                        "value": 4.0,
+                        "displayValue": "4"
+                    },
+                    "pga": {
+                        "value": 0.00178491744756805,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsMelee": {
+                    "statId": "weaponPrecisionKillsMelee",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsPulseRifle": {
+                    "statId": "weaponPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 554.0,
+                        "displayValue": "554"
+                    },
+                    "pga": {
+                        "value": 0.24721106648817492,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponPrecisionKillsRocketLauncher": {
+                    "statId": "weaponPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsScoutRifle": {
+                    "statId": "weaponPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 249.0,
+                        "displayValue": "249"
+                    },
+                    "pga": {
+                        "value": 0.1111111111111111,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponPrecisionKillsShotgun": {
+                    "statId": "weaponPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 138.0,
+                        "displayValue": "138"
+                    },
+                    "pga": {
+                        "value": 0.061579651941097727,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponPrecisionKillsSniper": {
+                    "statId": "weaponPrecisionKillsSniper",
+                    "basic": {
+                        "value": 368.0,
+                        "displayValue": "368"
+                    },
+                    "pga": {
+                        "value": 0.1642124051762606,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponPrecisionKillsSubmachinegun": {
+                    "statId": "weaponPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 205.0,
+                        "displayValue": "205"
+                    },
+                    "pga": {
+                        "value": 0.091477019187862565,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponPrecisionKillsSuper": {
+                    "statId": "weaponPrecisionKillsSuper",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsRelic": {
+                    "statId": "weaponPrecisionKillsRelic",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsSideArm": {
+                    "statId": "weaponPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 94.0,
+                        "displayValue": "94"
+                    },
+                    "pga": {
+                        "value": 0.041945560017849173,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsAutoRifle": {
+                    "statId": "weaponKillsAutoRifle",
+                    "basic": {
+                        "value": 1416.0,
+                        "displayValue": "1416"
+                    },
+                    "pga": {
+                        "value": 0.63186077643908967,
+                        "displayValue": "0.6"
+                    }
+                },
+                "weaponKillsFusionRifle": {
+                    "statId": "weaponKillsFusionRifle",
+                    "basic": {
+                        "value": 604.0,
+                        "displayValue": "604"
+                    },
+                    "pga": {
+                        "value": 0.26952253458277553,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponKillsGrenade": {
+                    "statId": "weaponKillsGrenade",
+                    "basic": {
+                        "value": 579.0,
+                        "displayValue": "579"
+                    },
+                    "pga": {
+                        "value": 0.25836680053547523,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponKillsGrenadeLauncher": {
+                    "statId": "weaponKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 453.0,
+                        "displayValue": "453"
+                    },
+                    "pga": {
+                        "value": 0.20214190093708165,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponKillsHandCannon": {
+                    "statId": "weaponKillsHandCannon",
+                    "basic": {
+                        "value": 1137.0,
+                        "displayValue": "1137"
+                    },
+                    "pga": {
+                        "value": 0.50736278447121819,
+                        "displayValue": "0.5"
+                    }
+                },
+                "weaponKillsTraceRifle": {
+                    "statId": "weaponKillsTraceRifle",
+                    "basic": {
+                        "value": 130.0,
+                        "displayValue": "130"
+                    },
+                    "pga": {
+                        "value": 0.058009817045961622,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponKillsMachineGun": {
+                    "statId": "weaponKillsMachineGun",
+                    "basic": {
+                        "value": 38.0,
+                        "displayValue": "38"
+                    },
+                    "pga": {
+                        "value": 0.016956715751896476,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsMelee": {
+                    "statId": "weaponKillsMelee",
+                    "basic": {
+                        "value": 2592.0,
+                        "displayValue": "2592"
+                    },
+                    "pga": {
+                        "value": 1.1566265060240963,
+                        "displayValue": "1.2"
+                    }
+                },
+                "weaponKillsPulseRifle": {
+                    "statId": "weaponKillsPulseRifle",
+                    "basic": {
+                        "value": 942.0,
+                        "displayValue": "942"
+                    },
+                    "pga": {
+                        "value": 0.42034805890227578,
+                        "displayValue": "0.4"
+                    }
+                },
+                "weaponKillsRocketLauncher": {
+                    "statId": "weaponKillsRocketLauncher",
+                    "basic": {
+                        "value": 182.0,
+                        "displayValue": "182"
+                    },
+                    "pga": {
+                        "value": 0.08121374386434628,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponKillsScoutRifle": {
+                    "statId": "weaponKillsScoutRifle",
+                    "basic": {
+                        "value": 440.0,
+                        "displayValue": "440"
+                    },
+                    "pga": {
+                        "value": 0.19634091923248551,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponKillsShotgun": {
+                    "statId": "weaponKillsShotgun",
+                    "basic": {
+                        "value": 1064.0,
+                        "displayValue": "1064"
+                    },
+                    "pga": {
+                        "value": 0.4747880410531013,
+                        "displayValue": "0.5"
+                    }
+                },
+                "weaponKillsSniper": {
+                    "statId": "weaponKillsSniper",
+                    "basic": {
+                        "value": 607.0,
+                        "displayValue": "607"
+                    },
+                    "pga": {
+                        "value": 0.27086122266845158,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponKillsSubmachinegun": {
+                    "statId": "weaponKillsSubmachinegun",
+                    "basic": {
+                        "value": 504.0,
+                        "displayValue": "504"
+                    },
+                    "pga": {
+                        "value": 0.22489959839357429,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponKillsSuper": {
+                    "statId": "weaponKillsSuper",
+                    "basic": {
+                        "value": 4020.0,
+                        "displayValue": "4020"
+                    },
+                    "pga": {
+                        "value": 1.7938420348058903,
+                        "displayValue": "1.8"
+                    }
+                },
+                "weaponKillsRelic": {
+                    "statId": "weaponKillsRelic",
+                    "basic": {
+                        "value": 588.0,
+                        "displayValue": "588"
+                    },
+                    "pga": {
+                        "value": 0.26238286479250333,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponKillsSideArm": {
+                    "statId": "weaponKillsSideArm",
+                    "basic": {
+                        "value": 249.0,
+                        "displayValue": "249"
+                    },
+                    "pga": {
+                        "value": 0.1111111111111111,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponKillsSword": {
+                    "statId": "weaponKillsSword",
+                    "basic": {
+                        "value": 39.0,
+                        "displayValue": "39"
+                    },
+                    "pga": {
+                        "value": 0.017402945113788489,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsAbility": {
+                    "statId": "weaponKillsAbility",
+                    "basic": {
+                        "value": 2.0,
+                        "displayValue": "2"
+                    },
+                    "pga": {
+                        "value": 0.000892458723784025,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsBeamRifle": {
+                    "statId": "weaponKillsBeamRifle",
+                    "basic": {
+                        "value": 28.0,
+                        "displayValue": "28"
+                    },
+                    "pga": {
+                        "value": 0.01249442213297635,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsBow": {
+                    "statId": "weaponKillsBow",
+                    "basic": {
+                        "value": 153.0,
+                        "displayValue": "153"
+                    },
+                    "pga": {
+                        "value": 0.068273092369477914,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponKillsPrecisionKillsAutoRifle": {
+                    "statId": "weaponKillsPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 0.480225988700565,
+                        "displayValue": "48%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBeamRifle": {
+                    "statId": "weaponKillsPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 0.42857142857142855,
+                        "displayValue": "43%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBow": {
+                    "statId": "weaponKillsPrecisionKillsBow",
+                    "basic": {
+                        "value": 0.43137254901960786,
+                        "displayValue": "43%"
+                    }
+                },
+                "weaponKillsPrecisionKillsFusionRifle": {
+                    "statId": "weaponKillsPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenade": {
+                    "statId": "weaponKillsPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenadeLauncher": {
+                    "statId": "weaponKillsPrecisionKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsHandCannon": {
+                    "statId": "weaponKillsPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 0.49692172383465261,
+                        "displayValue": "50%"
+                    }
+                },
+                "weaponKillsPrecisionKillsTraceRifle": {
+                    "statId": "weaponKillsPrecisionKillsTraceRifle",
+                    "basic": {
+                        "value": 0.2076923076923077,
+                        "displayValue": "21%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMachineGun": {
+                    "statId": "weaponKillsPrecisionKillsMachineGun",
+                    "basic": {
+                        "value": 0.10526315789473684,
+                        "displayValue": "11%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMelee": {
+                    "statId": "weaponKillsPrecisionKillsMelee",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsPulseRifle": {
+                    "statId": "weaponKillsPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 0.58811040339702758,
+                        "displayValue": "59%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRocketLauncher": {
+                    "statId": "weaponKillsPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsScoutRifle": {
+                    "statId": "weaponKillsPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 0.56590909090909092,
+                        "displayValue": "57%"
+                    }
+                },
+                "weaponKillsPrecisionKillsShotgun": {
+                    "statId": "weaponKillsPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 0.12969924812030076,
+                        "displayValue": "13%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSniper": {
+                    "statId": "weaponKillsPrecisionKillsSniper",
+                    "basic": {
+                        "value": 0.6062602965403624,
+                        "displayValue": "61%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSubmachinegun": {
+                    "statId": "weaponKillsPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 0.40674603174603174,
+                        "displayValue": "41%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSuper": {
+                    "statId": "weaponKillsPrecisionKillsSuper",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRelic": {
+                    "statId": "weaponKillsPrecisionKillsRelic",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSideArm": {
+                    "statId": "weaponKillsPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 0.37751004016064255,
+                        "displayValue": "38%"
+                    }
+                }
+            }
+        },
+        "patrol": {
+            "allTime": {
+                "weaponPrecisionKillsAutoRifle": {
+                    "statId": "weaponPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 2604.0,
+                        "displayValue": "2604"
+                    },
+                    "pga": {
+                        "value": 1.0859049207673062,
+                        "displayValue": "1.1"
+                    }
+                },
+                "activitiesEntered": {
+                    "statId": "activitiesEntered",
+                    "basic": {
+                        "value": 2398.0,
+                        "displayValue": "2398"
+                    }
+                },
+                "weaponPrecisionKillsBeamRifle": {
+                    "statId": "weaponPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 281.0,
+                        "displayValue": "281"
+                    },
+                    "pga": {
+                        "value": 0.11718098415346122,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponPrecisionKillsBow": {
+                    "statId": "weaponPrecisionKillsBow",
+                    "basic": {
+                        "value": 990.0,
+                        "displayValue": "990"
+                    },
+                    "pga": {
+                        "value": 0.41284403669724773,
+                        "displayValue": "0.4"
+                    }
+                },
+                "weaponPrecisionKillsFusionRifle": {
+                    "statId": "weaponPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsGrenade": {
+                    "statId": "weaponPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsHandCannon": {
+                    "statId": "weaponPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 2564.0,
+                        "displayValue": "2564"
+                    },
+                    "pga": {
+                        "value": 1.0692243536280233,
+                        "displayValue": "1.1"
+                    }
+                },
+                "weaponPrecisionKillsMelee": {
+                    "statId": "weaponPrecisionKillsMelee",
+                    "basic": {
+                        "value": 7.0,
+                        "displayValue": "7"
+                    },
+                    "pga": {
+                        "value": 0.0029190992493744786,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsPulseRifle": {
+                    "statId": "weaponPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 2254.0,
+                        "displayValue": "2254"
+                    },
+                    "pga": {
+                        "value": 0.93994995829858219,
+                        "displayValue": "0.9"
+                    }
+                },
+                "weaponPrecisionKillsRocketLauncher": {
+                    "statId": "weaponPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsScoutRifle": {
+                    "statId": "weaponPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 1064.0,
+                        "displayValue": "1064"
+                    },
+                    "pga": {
+                        "value": 0.44370308590492075,
+                        "displayValue": "0.4"
+                    }
+                },
+                "weaponPrecisionKillsShotgun": {
+                    "statId": "weaponPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 622.0,
+                        "displayValue": "622"
+                    },
+                    "pga": {
+                        "value": 0.25938281901584653,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponPrecisionKillsSniper": {
+                    "statId": "weaponPrecisionKillsSniper",
+                    "basic": {
+                        "value": 417.0,
+                        "displayValue": "417"
+                    },
+                    "pga": {
+                        "value": 0.17389491242702251,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponPrecisionKillsSubmachinegun": {
+                    "statId": "weaponPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 1571.0,
+                        "displayValue": "1571"
+                    },
+                    "pga": {
+                        "value": 0.65512927439532942,
+                        "displayValue": "0.7"
+                    }
+                },
+                "weaponPrecisionKillsSuper": {
+                    "statId": "weaponPrecisionKillsSuper",
+                    "basic": {
+                        "value": 51.0,
+                        "displayValue": "51"
+                    },
+                    "pga": {
+                        "value": 0.021267723102585488,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsRelic": {
+                    "statId": "weaponPrecisionKillsRelic",
+                    "basic": {
+                        "value": 7.0,
+                        "displayValue": "7"
+                    },
+                    "pga": {
+                        "value": 0.0029190992493744786,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsSideArm": {
+                    "statId": "weaponPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 344.0,
+                        "displayValue": "344"
+                    },
+                    "pga": {
+                        "value": 0.14345287739783152,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponKillsAutoRifle": {
+                    "statId": "weaponKillsAutoRifle",
+                    "basic": {
+                        "value": 10471.0,
+                        "displayValue": "10471"
+                    },
+                    "pga": {
+                        "value": 4.3665554628857377,
+                        "displayValue": "4.4"
+                    }
+                },
+                "weaponKillsFusionRifle": {
+                    "statId": "weaponKillsFusionRifle",
+                    "basic": {
+                        "value": 1725.0,
+                        "displayValue": "1725"
+                    },
+                    "pga": {
+                        "value": 0.719349457881568,
+                        "displayValue": "0.7"
+                    }
+                },
+                "weaponKillsGrenade": {
+                    "statId": "weaponKillsGrenade",
+                    "basic": {
+                        "value": 9009.0,
+                        "displayValue": "9009"
+                    },
+                    "pga": {
+                        "value": 3.7568807339449539,
+                        "displayValue": "3.8"
+                    }
+                },
+                "weaponKillsGrenadeLauncher": {
+                    "statId": "weaponKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 7591.0,
+                        "displayValue": "7591"
+                    },
+                    "pga": {
+                        "value": 3.165554628857381,
+                        "displayValue": "3.2"
+                    }
+                },
+                "weaponKillsHandCannon": {
+                    "statId": "weaponKillsHandCannon",
+                    "basic": {
+                        "value": 6853.0,
+                        "displayValue": "6853"
+                    },
+                    "pga": {
+                        "value": 2.8577981651376145,
+                        "displayValue": "2.9"
+                    }
+                },
+                "weaponKillsTraceRifle": {
+                    "statId": "weaponKillsTraceRifle",
+                    "basic": {
+                        "value": 369.0,
+                        "displayValue": "369"
+                    },
+                    "pga": {
+                        "value": 0.15387823185988322,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponKillsMachineGun": {
+                    "statId": "weaponKillsMachineGun",
+                    "basic": {
+                        "value": 1844.0,
+                        "displayValue": "1844"
+                    },
+                    "pga": {
+                        "value": 0.76897414512093409,
+                        "displayValue": "0.8"
+                    }
+                },
+                "weaponKillsMelee": {
+                    "statId": "weaponKillsMelee",
+                    "basic": {
+                        "value": 15359.0,
+                        "displayValue": "15359"
+                    },
+                    "pga": {
+                        "value": 6.4049207673060886,
+                        "displayValue": "6.4"
+                    }
+                },
+                "weaponKillsPulseRifle": {
+                    "statId": "weaponKillsPulseRifle",
+                    "basic": {
+                        "value": 7925.0,
+                        "displayValue": "7925"
+                    },
+                    "pga": {
+                        "value": 3.3048373644703921,
+                        "displayValue": "3.3"
+                    }
+                },
+                "weaponKillsRocketLauncher": {
+                    "statId": "weaponKillsRocketLauncher",
+                    "basic": {
+                        "value": 1693.0,
+                        "displayValue": "1693"
+                    },
+                    "pga": {
+                        "value": 0.70600500417014178,
+                        "displayValue": "0.7"
+                    }
+                },
+                "weaponKillsScoutRifle": {
+                    "statId": "weaponKillsScoutRifle",
+                    "basic": {
+                        "value": 2648.0,
+                        "displayValue": "2648"
+                    },
+                    "pga": {
+                        "value": 1.1042535446205171,
+                        "displayValue": "1.1"
+                    }
+                },
+                "weaponKillsShotgun": {
+                    "statId": "weaponKillsShotgun",
+                    "basic": {
+                        "value": 3678.0,
+                        "displayValue": "3678"
+                    },
+                    "pga": {
+                        "value": 1.5337781484570476,
+                        "displayValue": "1.5"
+                    }
+                },
+                "weaponKillsSniper": {
+                    "statId": "weaponKillsSniper",
+                    "basic": {
+                        "value": 1099.0,
+                        "displayValue": "1099"
+                    },
+                    "pga": {
+                        "value": 0.45829858215179314,
+                        "displayValue": "0.5"
+                    }
+                },
+                "weaponKillsSubmachinegun": {
+                    "statId": "weaponKillsSubmachinegun",
+                    "basic": {
+                        "value": 7583.0,
+                        "displayValue": "7583"
+                    },
+                    "pga": {
+                        "value": 3.1622185154295246,
+                        "displayValue": "3.2"
+                    }
+                },
+                "weaponKillsSuper": {
+                    "statId": "weaponKillsSuper",
+                    "basic": {
+                        "value": 11426.0,
+                        "displayValue": "11426"
+                    },
+                    "pga": {
+                        "value": 4.7648040033361134,
+                        "displayValue": "4.8"
+                    }
+                },
+                "weaponKillsRelic": {
+                    "statId": "weaponKillsRelic",
+                    "basic": {
+                        "value": 3043.0,
+                        "displayValue": "3043"
+                    },
+                    "pga": {
+                        "value": 1.2689741451209342,
+                        "displayValue": "1.3"
+                    }
+                },
+                "weaponKillsSideArm": {
+                    "statId": "weaponKillsSideArm",
+                    "basic": {
+                        "value": 1592.0,
+                        "displayValue": "1592"
+                    },
+                    "pga": {
+                        "value": 0.66388657214345292,
+                        "displayValue": "0.7"
+                    }
+                },
+                "weaponKillsSword": {
+                    "statId": "weaponKillsSword",
+                    "basic": {
+                        "value": 6575.0,
+                        "displayValue": "6575"
+                    },
+                    "pga": {
+                        "value": 2.7418682235195995,
+                        "displayValue": "2.7"
+                    }
+                },
+                "weaponKillsAbility": {
+                    "statId": "weaponKillsAbility",
+                    "basic": {
+                        "value": 11.0,
+                        "displayValue": "11"
+                    },
+                    "pga": {
+                        "value": 0.0045871559633027525,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsBeamRifle": {
+                    "statId": "weaponKillsBeamRifle",
+                    "basic": {
+                        "value": 1699.0,
+                        "displayValue": "1699"
+                    },
+                    "pga": {
+                        "value": 0.70850708924103423,
+                        "displayValue": "0.7"
+                    }
+                },
+                "weaponKillsBow": {
+                    "statId": "weaponKillsBow",
+                    "basic": {
+                        "value": 3281.0,
+                        "displayValue": "3281"
+                    },
+                    "pga": {
+                        "value": 1.3682235195996664,
+                        "displayValue": "1.4"
+                    }
+                },
+                "weaponKillsPrecisionKillsAutoRifle": {
+                    "statId": "weaponKillsPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 0.24868684939356317,
+                        "displayValue": "25%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBeamRifle": {
+                    "statId": "weaponKillsPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 0.16539140670982933,
+                        "displayValue": "17%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBow": {
+                    "statId": "weaponKillsPrecisionKillsBow",
+                    "basic": {
+                        "value": 0.30173727522096921,
+                        "displayValue": "30%"
+                    }
+                },
+                "weaponKillsPrecisionKillsFusionRifle": {
+                    "statId": "weaponKillsPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenade": {
+                    "statId": "weaponKillsPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenadeLauncher": {
+                    "statId": "weaponKillsPrecisionKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsHandCannon": {
+                    "statId": "weaponKillsPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 0.37414271122136289,
+                        "displayValue": "37%"
+                    }
+                },
+                "weaponKillsPrecisionKillsTraceRifle": {
+                    "statId": "weaponKillsPrecisionKillsTraceRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMachineGun": {
+                    "statId": "weaponKillsPrecisionKillsMachineGun",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMelee": {
+                    "statId": "weaponKillsPrecisionKillsMelee",
+                    "basic": {
+                        "value": 0.00045575883846604595,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsPulseRifle": {
+                    "statId": "weaponKillsPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 0.28441640378548894,
+                        "displayValue": "28%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRocketLauncher": {
+                    "statId": "weaponKillsPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsScoutRifle": {
+                    "statId": "weaponKillsPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 0.40181268882175225,
+                        "displayValue": "40%"
+                    }
+                },
+                "weaponKillsPrecisionKillsShotgun": {
+                    "statId": "weaponKillsPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 0.16911364872213158,
+                        "displayValue": "17%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSniper": {
+                    "statId": "weaponKillsPrecisionKillsSniper",
+                    "basic": {
+                        "value": 0.37943585077343039,
+                        "displayValue": "38%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSubmachinegun": {
+                    "statId": "weaponKillsPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 0.2071739417117236,
+                        "displayValue": "21%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSuper": {
+                    "statId": "weaponKillsPrecisionKillsSuper",
+                    "basic": {
+                        "value": 0.0044635042884649048,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRelic": {
+                    "statId": "weaponKillsPrecisionKillsRelic",
+                    "basic": {
+                        "value": 0.0023003614853762734,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSideArm": {
+                    "statId": "weaponKillsPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 0.21608040201005024,
+                        "displayValue": "22%"
+                    }
+                }
+            }
+        },
+        "raid": {
+            "allTime": {
+                "weaponPrecisionKillsAutoRifle": {
+                    "statId": "weaponPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 983.0,
+                        "displayValue": "983"
+                    },
+                    "pga": {
+                        "value": 2.0607966457023061,
+                        "displayValue": "2.1"
+                    }
+                },
+                "activitiesEntered": {
+                    "statId": "activitiesEntered",
+                    "basic": {
+                        "value": 477.0,
+                        "displayValue": "477"
+                    }
+                },
+                "weaponPrecisionKillsBeamRifle": {
+                    "statId": "weaponPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 196.0,
+                        "displayValue": "196"
+                    },
+                    "pga": {
+                        "value": 0.41090146750524109,
+                        "displayValue": "0.4"
+                    }
+                },
+                "weaponPrecisionKillsBow": {
+                    "statId": "weaponPrecisionKillsBow",
+                    "basic": {
+                        "value": 270.0,
+                        "displayValue": "270"
+                    },
+                    "pga": {
+                        "value": 0.56603773584905659,
+                        "displayValue": "0.6"
+                    }
+                },
+                "weaponPrecisionKillsFusionRifle": {
+                    "statId": "weaponPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsGrenade": {
+                    "statId": "weaponPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsHandCannon": {
+                    "statId": "weaponPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 201.0,
+                        "displayValue": "201"
+                    },
+                    "pga": {
+                        "value": 0.42138364779874216,
+                        "displayValue": "0.4"
+                    }
+                },
+                "weaponPrecisionKillsMelee": {
+                    "statId": "weaponPrecisionKillsMelee",
+                    "basic": {
+                        "value": 5.0,
+                        "displayValue": "5"
+                    },
+                    "pga": {
+                        "value": 0.010482180293501049,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsPulseRifle": {
+                    "statId": "weaponPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 589.0,
+                        "displayValue": "589"
+                    },
+                    "pga": {
+                        "value": 1.2348008385744236,
+                        "displayValue": "1.2"
+                    }
+                },
+                "weaponPrecisionKillsRocketLauncher": {
+                    "statId": "weaponPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsScoutRifle": {
+                    "statId": "weaponPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 1130.0,
+                        "displayValue": "1130"
+                    },
+                    "pga": {
+                        "value": 2.3689727463312371,
+                        "displayValue": "2.4"
+                    }
+                },
+                "weaponPrecisionKillsShotgun": {
+                    "statId": "weaponPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 99.0,
+                        "displayValue": "99"
+                    },
+                    "pga": {
+                        "value": 0.20754716981132076,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponPrecisionKillsSniper": {
+                    "statId": "weaponPrecisionKillsSniper",
+                    "basic": {
+                        "value": 287.0,
+                        "displayValue": "287"
+                    },
+                    "pga": {
+                        "value": 0.60167714884696022,
+                        "displayValue": "0.6"
+                    }
+                },
+                "weaponPrecisionKillsSubmachinegun": {
+                    "statId": "weaponPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 654.0,
+                        "displayValue": "654"
+                    },
+                    "pga": {
+                        "value": 1.371069182389937,
+                        "displayValue": "1.4"
+                    }
+                },
+                "weaponPrecisionKillsSuper": {
+                    "statId": "weaponPrecisionKillsSuper",
+                    "basic": {
+                        "value": 13.0,
+                        "displayValue": "13"
+                    },
+                    "pga": {
+                        "value": 0.027253668763102725,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsRelic": {
+                    "statId": "weaponPrecisionKillsRelic",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsSideArm": {
+                    "statId": "weaponPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 529.0,
+                        "displayValue": "529"
+                    },
+                    "pga": {
+                        "value": 1.1090146750524108,
+                        "displayValue": "1.1"
+                    }
+                },
+                "weaponKillsAutoRifle": {
+                    "statId": "weaponKillsAutoRifle",
+                    "basic": {
+                        "value": 3181.0,
+                        "displayValue": "3181"
+                    },
+                    "pga": {
+                        "value": 6.6687631027253671,
+                        "displayValue": "6.7"
+                    }
+                },
+                "weaponKillsFusionRifle": {
+                    "statId": "weaponKillsFusionRifle",
+                    "basic": {
+                        "value": 668.0,
+                        "displayValue": "668"
+                    },
+                    "pga": {
+                        "value": 1.40041928721174,
+                        "displayValue": "1.4"
+                    }
+                },
+                "weaponKillsGrenade": {
+                    "statId": "weaponKillsGrenade",
+                    "basic": {
+                        "value": 3389.0,
+                        "displayValue": "3389"
+                    },
+                    "pga": {
+                        "value": 7.10482180293501,
+                        "displayValue": "7.1"
+                    }
+                },
+                "weaponKillsGrenadeLauncher": {
+                    "statId": "weaponKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 7240.0,
+                        "displayValue": "7240"
+                    },
+                    "pga": {
+                        "value": 15.178197064989519,
+                        "displayValue": "15.2"
+                    }
+                },
+                "weaponKillsHandCannon": {
+                    "statId": "weaponKillsHandCannon",
+                    "basic": {
+                        "value": 621.0,
+                        "displayValue": "621"
+                    },
+                    "pga": {
+                        "value": 1.3018867924528301,
+                        "displayValue": "1.3"
+                    }
+                },
+                "weaponKillsTraceRifle": {
+                    "statId": "weaponKillsTraceRifle",
+                    "basic": {
+                        "value": 572.0,
+                        "displayValue": "572"
+                    },
+                    "pga": {
+                        "value": 1.19916142557652,
+                        "displayValue": "1.2"
+                    }
+                },
+                "weaponKillsMachineGun": {
+                    "statId": "weaponKillsMachineGun",
+                    "basic": {
+                        "value": 1170.0,
+                        "displayValue": "1170"
+                    },
+                    "pga": {
+                        "value": 2.4528301886792452,
+                        "displayValue": "2.5"
+                    }
+                },
+                "weaponKillsMelee": {
+                    "statId": "weaponKillsMelee",
+                    "basic": {
+                        "value": 4500.0,
+                        "displayValue": "4500"
+                    },
+                    "pga": {
+                        "value": 9.433962264150944,
+                        "displayValue": "9.4"
+                    }
+                },
+                "weaponKillsPulseRifle": {
+                    "statId": "weaponKillsPulseRifle",
+                    "basic": {
+                        "value": 1742.0,
+                        "displayValue": "1742"
+                    },
+                    "pga": {
+                        "value": 3.6519916142557651,
+                        "displayValue": "3.7"
+                    }
+                },
+                "weaponKillsRocketLauncher": {
+                    "statId": "weaponKillsRocketLauncher",
+                    "basic": {
+                        "value": 1789.0,
+                        "displayValue": "1789"
+                    },
+                    "pga": {
+                        "value": 3.750524109014675,
+                        "displayValue": "3.8"
+                    }
+                },
+                "weaponKillsScoutRifle": {
+                    "statId": "weaponKillsScoutRifle",
+                    "basic": {
+                        "value": 3137.0,
+                        "displayValue": "3137"
+                    },
+                    "pga": {
+                        "value": 6.5765199161425576,
+                        "displayValue": "6.6"
+                    }
+                },
+                "weaponKillsShotgun": {
+                    "statId": "weaponKillsShotgun",
+                    "basic": {
+                        "value": 2446.0,
+                        "displayValue": "2446"
+                    },
+                    "pga": {
+                        "value": 5.1278825995807127,
+                        "displayValue": "5.1"
+                    }
+                },
+                "weaponKillsSniper": {
+                    "statId": "weaponKillsSniper",
+                    "basic": {
+                        "value": 681.0,
+                        "displayValue": "681"
+                    },
+                    "pga": {
+                        "value": 1.4276729559748427,
+                        "displayValue": "1.4"
+                    }
+                },
+                "weaponKillsSubmachinegun": {
+                    "statId": "weaponKillsSubmachinegun",
+                    "basic": {
+                        "value": 2668.0,
+                        "displayValue": "2668"
+                    },
+                    "pga": {
+                        "value": 5.59329140461216,
+                        "displayValue": "5.6"
+                    }
+                },
+                "weaponKillsSuper": {
+                    "statId": "weaponKillsSuper",
+                    "basic": {
+                        "value": 2158.0,
+                        "displayValue": "2158"
+                    },
+                    "pga": {
+                        "value": 4.5241090146750524,
+                        "displayValue": "4.5"
+                    }
+                },
+                "weaponKillsRelic": {
+                    "statId": "weaponKillsRelic",
+                    "basic": {
+                        "value": 528.0,
+                        "displayValue": "528"
+                    },
+                    "pga": {
+                        "value": 1.1069182389937107,
+                        "displayValue": "1.1"
+                    }
+                },
+                "weaponKillsSideArm": {
+                    "statId": "weaponKillsSideArm",
+                    "basic": {
+                        "value": 1866.0,
+                        "displayValue": "1866"
+                    },
+                    "pga": {
+                        "value": 3.9119496855345912,
+                        "displayValue": "3.9"
+                    }
+                },
+                "weaponKillsSword": {
+                    "statId": "weaponKillsSword",
+                    "basic": {
+                        "value": 2336.0,
+                        "displayValue": "2336"
+                    },
+                    "pga": {
+                        "value": 4.89727463312369,
+                        "displayValue": "4.9"
+                    }
+                },
+                "weaponKillsAbility": {
+                    "statId": "weaponKillsAbility",
+                    "basic": {
+                        "value": 6.0,
+                        "displayValue": "6"
+                    },
+                    "pga": {
+                        "value": 0.012578616352201259,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsBeamRifle": {
+                    "statId": "weaponKillsBeamRifle",
+                    "basic": {
+                        "value": 1231.0,
+                        "displayValue": "1231"
+                    },
+                    "pga": {
+                        "value": 2.5807127882599579,
+                        "displayValue": "2.6"
+                    }
+                },
+                "weaponKillsBow": {
+                    "statId": "weaponKillsBow",
+                    "basic": {
+                        "value": 1374.0,
+                        "displayValue": "1374"
+                    },
+                    "pga": {
+                        "value": 2.8805031446540879,
+                        "displayValue": "2.9"
+                    }
+                },
+                "weaponKillsPrecisionKillsAutoRifle": {
+                    "statId": "weaponKillsPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 0.30902232002514934,
+                        "displayValue": "31%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBeamRifle": {
+                    "statId": "weaponKillsPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 0.15922014622258326,
+                        "displayValue": "16%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBow": {
+                    "statId": "weaponKillsPrecisionKillsBow",
+                    "basic": {
+                        "value": 0.1965065502183406,
+                        "displayValue": "20%"
+                    }
+                },
+                "weaponKillsPrecisionKillsFusionRifle": {
+                    "statId": "weaponKillsPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenade": {
+                    "statId": "weaponKillsPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenadeLauncher": {
+                    "statId": "weaponKillsPrecisionKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsHandCannon": {
+                    "statId": "weaponKillsPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 0.32367149758454106,
+                        "displayValue": "32%"
+                    }
+                },
+                "weaponKillsPrecisionKillsTraceRifle": {
+                    "statId": "weaponKillsPrecisionKillsTraceRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMachineGun": {
+                    "statId": "weaponKillsPrecisionKillsMachineGun",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMelee": {
+                    "statId": "weaponKillsPrecisionKillsMelee",
+                    "basic": {
+                        "value": 0.0011111111111111111,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsPulseRifle": {
+                    "statId": "weaponKillsPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 0.33811710677382317,
+                        "displayValue": "34%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRocketLauncher": {
+                    "statId": "weaponKillsPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsScoutRifle": {
+                    "statId": "weaponKillsPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 0.36021676761236848,
+                        "displayValue": "36%"
+                    }
+                },
+                "weaponKillsPrecisionKillsShotgun": {
+                    "statId": "weaponKillsPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 0.040474243663123466,
+                        "displayValue": "4%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSniper": {
+                    "statId": "weaponKillsPrecisionKillsSniper",
+                    "basic": {
+                        "value": 0.42143906020558003,
+                        "displayValue": "42%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSubmachinegun": {
+                    "statId": "weaponKillsPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 0.24512743628185907,
+                        "displayValue": "25%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSuper": {
+                    "statId": "weaponKillsPrecisionKillsSuper",
+                    "basic": {
+                        "value": 0.006024096385542169,
+                        "displayValue": "1%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRelic": {
+                    "statId": "weaponKillsPrecisionKillsRelic",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSideArm": {
+                    "statId": "weaponKillsPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 0.28349410503751338,
+                        "displayValue": "28%"
+                    }
+                }
+            }
+        },
+        "story": {
+            "allTime": {
+                "weaponPrecisionKillsAutoRifle": {
+                    "statId": "weaponPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 1118.0,
+                        "displayValue": "1118"
+                    },
+                    "pga": {
+                        "value": 1.105835806132542,
+                        "displayValue": "1.1"
+                    }
+                },
+                "activitiesEntered": {
+                    "statId": "activitiesEntered",
+                    "basic": {
+                        "value": 1011.0,
+                        "displayValue": "1011"
+                    }
+                },
+                "weaponPrecisionKillsBeamRifle": {
+                    "statId": "weaponPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 95.0,
+                        "displayValue": "95"
+                    },
+                    "pga": {
+                        "value": 0.093966369930761628,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponPrecisionKillsBow": {
+                    "statId": "weaponPrecisionKillsBow",
+                    "basic": {
+                        "value": 111.0,
+                        "displayValue": "111"
+                    },
+                    "pga": {
+                        "value": 0.10979228486646884,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponPrecisionKillsFusionRifle": {
+                    "statId": "weaponPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsGrenade": {
+                    "statId": "weaponPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 1.0,
+                        "displayValue": "1"
+                    },
+                    "pga": {
+                        "value": 0.00098911968348170125,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsHandCannon": {
+                    "statId": "weaponPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 774.0,
+                        "displayValue": "774"
+                    },
+                    "pga": {
+                        "value": 0.76557863501483681,
+                        "displayValue": "0.8"
+                    }
+                },
+                "weaponPrecisionKillsMelee": {
+                    "statId": "weaponPrecisionKillsMelee",
+                    "basic": {
+                        "value": 8.0,
+                        "displayValue": "8"
+                    },
+                    "pga": {
+                        "value": 0.00791295746785361,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsPulseRifle": {
+                    "statId": "weaponPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 401.0,
+                        "displayValue": "401"
+                    },
+                    "pga": {
+                        "value": 0.39663699307616224,
+                        "displayValue": "0.4"
+                    }
+                },
+                "weaponPrecisionKillsRocketLauncher": {
+                    "statId": "weaponPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsScoutRifle": {
+                    "statId": "weaponPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 228.0,
+                        "displayValue": "228"
+                    },
+                    "pga": {
+                        "value": 0.22551928783382788,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponPrecisionKillsShotgun": {
+                    "statId": "weaponPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 343.0,
+                        "displayValue": "343"
+                    },
+                    "pga": {
+                        "value": 0.33926805143422356,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponPrecisionKillsSniper": {
+                    "statId": "weaponPrecisionKillsSniper",
+                    "basic": {
+                        "value": 45.0,
+                        "displayValue": "45"
+                    },
+                    "pga": {
+                        "value": 0.044510385756676561,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsSubmachinegun": {
+                    "statId": "weaponPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 645.0,
+                        "displayValue": "645"
+                    },
+                    "pga": {
+                        "value": 0.63798219584569738,
+                        "displayValue": "0.6"
+                    }
+                },
+                "weaponPrecisionKillsSuper": {
+                    "statId": "weaponPrecisionKillsSuper",
+                    "basic": {
+                        "value": 10.0,
+                        "displayValue": "10"
+                    },
+                    "pga": {
+                        "value": 0.0098911968348170121,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsRelic": {
+                    "statId": "weaponPrecisionKillsRelic",
+                    "basic": {
+                        "value": 1.0,
+                        "displayValue": "1"
+                    },
+                    "pga": {
+                        "value": 0.00098911968348170125,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsSideArm": {
+                    "statId": "weaponPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 296.0,
+                        "displayValue": "296"
+                    },
+                    "pga": {
+                        "value": 0.29277942631058357,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponKillsAutoRifle": {
+                    "statId": "weaponKillsAutoRifle",
+                    "basic": {
+                        "value": 3827.0,
+                        "displayValue": "3827"
+                    },
+                    "pga": {
+                        "value": 3.7853610286844708,
+                        "displayValue": "3.8"
+                    }
+                },
+                "weaponKillsFusionRifle": {
+                    "statId": "weaponKillsFusionRifle",
+                    "basic": {
+                        "value": 1211.0,
+                        "displayValue": "1211"
+                    },
+                    "pga": {
+                        "value": 1.1978239366963404,
+                        "displayValue": "1.2"
+                    }
+                },
+                "weaponKillsGrenade": {
+                    "statId": "weaponKillsGrenade",
+                    "basic": {
+                        "value": 9414.0,
+                        "displayValue": "9414"
+                    },
+                    "pga": {
+                        "value": 9.3115727002967361,
+                        "displayValue": "9.3"
+                    }
+                },
+                "weaponKillsGrenadeLauncher": {
+                    "statId": "weaponKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 6481.0,
+                        "displayValue": "6481"
+                    },
+                    "pga": {
+                        "value": 6.410484668644906,
+                        "displayValue": "6.4"
+                    }
+                },
+                "weaponKillsHandCannon": {
+                    "statId": "weaponKillsHandCannon",
+                    "basic": {
+                        "value": 2209.0,
+                        "displayValue": "2209"
+                    },
+                    "pga": {
+                        "value": 2.1849653808110783,
+                        "displayValue": "2.2"
+                    }
+                },
+                "weaponKillsTraceRifle": {
+                    "statId": "weaponKillsTraceRifle",
+                    "basic": {
+                        "value": 47.0,
+                        "displayValue": "47"
+                    },
+                    "pga": {
+                        "value": 0.046488625123639958,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsMachineGun": {
+                    "statId": "weaponKillsMachineGun",
+                    "basic": {
+                        "value": 271.0,
+                        "displayValue": "271"
+                    },
+                    "pga": {
+                        "value": 0.26805143422354105,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponKillsMelee": {
+                    "statId": "weaponKillsMelee",
+                    "basic": {
+                        "value": 9813.0,
+                        "displayValue": "9813"
+                    },
+                    "pga": {
+                        "value": 9.706231454005934,
+                        "displayValue": "9.7"
+                    }
+                },
+                "weaponKillsPulseRifle": {
+                    "statId": "weaponKillsPulseRifle",
+                    "basic": {
+                        "value": 1345.0,
+                        "displayValue": "1345"
+                    },
+                    "pga": {
+                        "value": 1.3303659742828882,
+                        "displayValue": "1.3"
+                    }
+                },
+                "weaponKillsRocketLauncher": {
+                    "statId": "weaponKillsRocketLauncher",
+                    "basic": {
+                        "value": 1555.0,
+                        "displayValue": "1555"
+                    },
+                    "pga": {
+                        "value": 1.5380811078140455,
+                        "displayValue": "1.5"
+                    }
+                },
+                "weaponKillsScoutRifle": {
+                    "statId": "weaponKillsScoutRifle",
+                    "basic": {
+                        "value": 697.0,
+                        "displayValue": "697"
+                    },
+                    "pga": {
+                        "value": 0.6894164193867458,
+                        "displayValue": "0.7"
+                    }
+                },
+                "weaponKillsShotgun": {
+                    "statId": "weaponKillsShotgun",
+                    "basic": {
+                        "value": 1318.0,
+                        "displayValue": "1318"
+                    },
+                    "pga": {
+                        "value": 1.3036597428288823,
+                        "displayValue": "1.3"
+                    }
+                },
+                "weaponKillsSniper": {
+                    "statId": "weaponKillsSniper",
+                    "basic": {
+                        "value": 96.0,
+                        "displayValue": "96"
+                    },
+                    "pga": {
+                        "value": 0.094955489614243327,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponKillsSubmachinegun": {
+                    "statId": "weaponKillsSubmachinegun",
+                    "basic": {
+                        "value": 2845.0,
+                        "displayValue": "2845"
+                    },
+                    "pga": {
+                        "value": 2.8140454995054403,
+                        "displayValue": "2.8"
+                    }
+                },
+                "weaponKillsSuper": {
+                    "statId": "weaponKillsSuper",
+                    "basic": {
+                        "value": 6177.0,
+                        "displayValue": "6177"
+                    },
+                    "pga": {
+                        "value": 6.1097922848664687,
+                        "displayValue": "6.1"
+                    }
+                },
+                "weaponKillsRelic": {
+                    "statId": "weaponKillsRelic",
+                    "basic": {
+                        "value": 1692.0,
+                        "displayValue": "1692"
+                    },
+                    "pga": {
+                        "value": 1.6735905044510386,
+                        "displayValue": "1.7"
+                    }
+                },
+                "weaponKillsSideArm": {
+                    "statId": "weaponKillsSideArm",
+                    "basic": {
+                        "value": 1122.0,
+                        "displayValue": "1122"
+                    },
+                    "pga": {
+                        "value": 1.1097922848664687,
+                        "displayValue": "1.1"
+                    }
+                },
+                "weaponKillsSword": {
+                    "statId": "weaponKillsSword",
+                    "basic": {
+                        "value": 3458.0,
+                        "displayValue": "3458"
+                    },
+                    "pga": {
+                        "value": 3.4203758654797229,
+                        "displayValue": "3.4"
+                    }
+                },
+                "weaponKillsAbility": {
+                    "statId": "weaponKillsAbility",
+                    "basic": {
+                        "value": 13.0,
+                        "displayValue": "13"
+                    },
+                    "pga": {
+                        "value": 0.012858555885262116,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsBeamRifle": {
+                    "statId": "weaponKillsBeamRifle",
+                    "basic": {
+                        "value": 543.0,
+                        "displayValue": "543"
+                    },
+                    "pga": {
+                        "value": 0.5370919881305638,
+                        "displayValue": "0.5"
+                    }
+                },
+                "weaponKillsBow": {
+                    "statId": "weaponKillsBow",
+                    "basic": {
+                        "value": 563.0,
+                        "displayValue": "563"
+                    },
+                    "pga": {
+                        "value": 0.55687438180019777,
+                        "displayValue": "0.6"
+                    }
+                },
+                "weaponKillsPrecisionKillsAutoRifle": {
+                    "statId": "weaponKillsPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 0.29213483146067415,
+                        "displayValue": "29%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBeamRifle": {
+                    "statId": "weaponKillsPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 0.17495395948434622,
+                        "displayValue": "17%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBow": {
+                    "statId": "weaponKillsPrecisionKillsBow",
+                    "basic": {
+                        "value": 0.19715808170515098,
+                        "displayValue": "20%"
+                    }
+                },
+                "weaponKillsPrecisionKillsFusionRifle": {
+                    "statId": "weaponKillsPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenade": {
+                    "statId": "weaponKillsPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 0.00010622477161674102,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenadeLauncher": {
+                    "statId": "weaponKillsPrecisionKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsHandCannon": {
+                    "statId": "weaponKillsPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 0.35038478949751017,
+                        "displayValue": "35%"
+                    }
+                },
+                "weaponKillsPrecisionKillsTraceRifle": {
+                    "statId": "weaponKillsPrecisionKillsTraceRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMachineGun": {
+                    "statId": "weaponKillsPrecisionKillsMachineGun",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMelee": {
+                    "statId": "weaponKillsPrecisionKillsMelee",
+                    "basic": {
+                        "value": 0.00081524508305309286,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsPulseRifle": {
+                    "statId": "weaponKillsPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 0.29814126394052043,
+                        "displayValue": "30%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRocketLauncher": {
+                    "statId": "weaponKillsPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsScoutRifle": {
+                    "statId": "weaponKillsPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 0.32711621233859395,
+                        "displayValue": "33%"
+                    }
+                },
+                "weaponKillsPrecisionKillsShotgun": {
+                    "statId": "weaponKillsPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 0.26024279210925644,
+                        "displayValue": "26%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSniper": {
+                    "statId": "weaponKillsPrecisionKillsSniper",
+                    "basic": {
+                        "value": 0.46875,
+                        "displayValue": "47%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSubmachinegun": {
+                    "statId": "weaponKillsPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 0.22671353251318102,
+                        "displayValue": "23%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSuper": {
+                    "statId": "weaponKillsPrecisionKillsSuper",
+                    "basic": {
+                        "value": 0.0016189088554314393,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRelic": {
+                    "statId": "weaponKillsPrecisionKillsRelic",
+                    "basic": {
+                        "value": 0.000591016548463357,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSideArm": {
+                    "statId": "weaponKillsPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 0.26381461675579321,
+                        "displayValue": "26%"
+                    }
+                }
+            }
+        },
+        "allStrikes": {
+            "allTime": {
+                "weaponPrecisionKillsAutoRifle": {
+                    "statId": "weaponPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 794.0,
+                        "displayValue": "794"
+                    },
+                    "pga": {
+                        "value": 0.5599435825105783,
+                        "displayValue": "0.6"
+                    }
+                },
+                "activitiesEntered": {
+                    "statId": "activitiesEntered",
+                    "basic": {
+                        "value": 1418.0,
+                        "displayValue": "1418"
+                    }
+                },
+                "weaponPrecisionKillsBeamRifle": {
+                    "statId": "weaponPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 120.0,
+                        "displayValue": "120"
+                    },
+                    "pga": {
+                        "value": 0.0846262341325811,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponPrecisionKillsBow": {
+                    "statId": "weaponPrecisionKillsBow",
+                    "basic": {
+                        "value": 1001.0,
+                        "displayValue": "1001"
+                    },
+                    "pga": {
+                        "value": 0.70592383638928069,
+                        "displayValue": "0.7"
+                    }
+                },
+                "weaponPrecisionKillsFusionRifle": {
+                    "statId": "weaponPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsGrenade": {
+                    "statId": "weaponPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsHandCannon": {
+                    "statId": "weaponPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 1205.0,
+                        "displayValue": "1205"
+                    },
+                    "pga": {
+                        "value": 0.84978843441466856,
+                        "displayValue": "0.8"
+                    }
+                },
+                "weaponPrecisionKillsMelee": {
+                    "statId": "weaponPrecisionKillsMelee",
+                    "basic": {
+                        "value": 1.0,
+                        "displayValue": "1"
+                    },
+                    "pga": {
+                        "value": 0.00070521861777150916,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsPulseRifle": {
+                    "statId": "weaponPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 938.0,
+                        "displayValue": "938"
+                    },
+                    "pga": {
+                        "value": 0.66149506346967557,
+                        "displayValue": "0.7"
+                    }
+                },
+                "weaponPrecisionKillsRocketLauncher": {
+                    "statId": "weaponPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsScoutRifle": {
+                    "statId": "weaponPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 492.0,
+                        "displayValue": "492"
+                    },
+                    "pga": {
+                        "value": 0.34696755994358253,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponPrecisionKillsShotgun": {
+                    "statId": "weaponPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 194.0,
+                        "displayValue": "194"
+                    },
+                    "pga": {
+                        "value": 0.13681241184767279,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponPrecisionKillsSniper": {
+                    "statId": "weaponPrecisionKillsSniper",
+                    "basic": {
+                        "value": 550.0,
+                        "displayValue": "550"
+                    },
+                    "pga": {
+                        "value": 0.38787023977433005,
+                        "displayValue": "0.4"
+                    }
+                },
+                "weaponPrecisionKillsSubmachinegun": {
+                    "statId": "weaponPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 902.0,
+                        "displayValue": "902"
+                    },
+                    "pga": {
+                        "value": 0.63610719322990128,
+                        "displayValue": "0.6"
+                    }
+                },
+                "weaponPrecisionKillsSuper": {
+                    "statId": "weaponPrecisionKillsSuper",
+                    "basic": {
+                        "value": 59.0,
+                        "displayValue": "59"
+                    },
+                    "pga": {
+                        "value": 0.041607898448519039,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsRelic": {
+                    "statId": "weaponPrecisionKillsRelic",
+                    "basic": {
+                        "value": 2.0,
+                        "displayValue": "2"
+                    },
+                    "pga": {
+                        "value": 0.0014104372355430183,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsSideArm": {
+                    "statId": "weaponPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 402.0,
+                        "displayValue": "402"
+                    },
+                    "pga": {
+                        "value": 0.28349788434414669,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponKillsAutoRifle": {
+                    "statId": "weaponKillsAutoRifle",
+                    "basic": {
+                        "value": 2912.0,
+                        "displayValue": "2912"
+                    },
+                    "pga": {
+                        "value": 2.0535966149506346,
+                        "displayValue": "2.1"
+                    }
+                },
+                "weaponKillsFusionRifle": {
+                    "statId": "weaponKillsFusionRifle",
+                    "basic": {
+                        "value": 1522.0,
+                        "displayValue": "1522"
+                    },
+                    "pga": {
+                        "value": 1.0733427362482371,
+                        "displayValue": "1.1"
+                    }
+                },
+                "weaponKillsGrenade": {
+                    "statId": "weaponKillsGrenade",
+                    "basic": {
+                        "value": 10346.0,
+                        "displayValue": "10346"
+                    },
+                    "pga": {
+                        "value": 7.2961918194640338,
+                        "displayValue": "7.3"
+                    }
+                },
+                "weaponKillsGrenadeLauncher": {
+                    "statId": "weaponKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 9543.0,
+                        "displayValue": "9543"
+                    },
+                    "pga": {
+                        "value": 6.7299012693935119,
+                        "displayValue": "6.7"
+                    }
+                },
+                "weaponKillsHandCannon": {
+                    "statId": "weaponKillsHandCannon",
+                    "basic": {
+                        "value": 3415.0,
+                        "displayValue": "3415"
+                    },
+                    "pga": {
+                        "value": 2.4083215796897037,
+                        "displayValue": "2.4"
+                    }
+                },
+                "weaponKillsTraceRifle": {
+                    "statId": "weaponKillsTraceRifle",
+                    "basic": {
+                        "value": 114.0,
+                        "displayValue": "114"
+                    },
+                    "pga": {
+                        "value": 0.080394922425952045,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponKillsMachineGun": {
+                    "statId": "weaponKillsMachineGun",
+                    "basic": {
+                        "value": 1507.0,
+                        "displayValue": "1507"
+                    },
+                    "pga": {
+                        "value": 1.0627644569816643,
+                        "displayValue": "1.1"
+                    }
+                },
+                "weaponKillsMelee": {
+                    "statId": "weaponKillsMelee",
+                    "basic": {
+                        "value": 10510.0,
+                        "displayValue": "10510"
+                    },
+                    "pga": {
+                        "value": 7.4118476727785616,
+                        "displayValue": "7.4"
+                    }
+                },
+                "weaponKillsPulseRifle": {
+                    "statId": "weaponKillsPulseRifle",
+                    "basic": {
+                        "value": 2752.0,
+                        "displayValue": "2752"
+                    },
+                    "pga": {
+                        "value": 1.9407616361071933,
+                        "displayValue": "1.9"
+                    }
+                },
+                "weaponKillsRocketLauncher": {
+                    "statId": "weaponKillsRocketLauncher",
+                    "basic": {
+                        "value": 1219.0,
+                        "displayValue": "1219"
+                    },
+                    "pga": {
+                        "value": 0.85966149506346967,
+                        "displayValue": "0.9"
+                    }
+                },
+                "weaponKillsScoutRifle": {
+                    "statId": "weaponKillsScoutRifle",
+                    "basic": {
+                        "value": 1394.0,
+                        "displayValue": "1394"
+                    },
+                    "pga": {
+                        "value": 0.98307475317348381,
+                        "displayValue": "1.0"
+                    }
+                },
+                "weaponKillsShotgun": {
+                    "statId": "weaponKillsShotgun",
+                    "basic": {
+                        "value": 1074.0,
+                        "displayValue": "1074"
+                    },
+                    "pga": {
+                        "value": 0.75740479548660089,
+                        "displayValue": "0.8"
+                    }
+                },
+                "weaponKillsSniper": {
+                    "statId": "weaponKillsSniper",
+                    "basic": {
+                        "value": 1086.0,
+                        "displayValue": "1086"
+                    },
+                    "pga": {
+                        "value": 0.765867418899859,
+                        "displayValue": "0.8"
+                    }
+                },
+                "weaponKillsSubmachinegun": {
+                    "statId": "weaponKillsSubmachinegun",
+                    "basic": {
+                        "value": 4747.0,
+                        "displayValue": "4747"
+                    },
+                    "pga": {
+                        "value": 3.3476727785613538,
+                        "displayValue": "3.3"
+                    }
+                },
+                "weaponKillsSuper": {
+                    "statId": "weaponKillsSuper",
+                    "basic": {
+                        "value": 6470.0,
+                        "displayValue": "6470"
+                    },
+                    "pga": {
+                        "value": 4.5627644569816646,
+                        "displayValue": "4.6"
+                    }
+                },
+                "weaponKillsRelic": {
+                    "statId": "weaponKillsRelic",
+                    "basic": {
+                        "value": 2205.0,
+                        "displayValue": "2205"
+                    },
+                    "pga": {
+                        "value": 1.5550070521861776,
+                        "displayValue": "1.6"
+                    }
+                },
+                "weaponKillsSideArm": {
+                    "statId": "weaponKillsSideArm",
+                    "basic": {
+                        "value": 1573.0,
+                        "displayValue": "1573"
+                    },
+                    "pga": {
+                        "value": 1.1093088857545839,
+                        "displayValue": "1.1"
+                    }
+                },
+                "weaponKillsSword": {
+                    "statId": "weaponKillsSword",
+                    "basic": {
+                        "value": 5522.0,
+                        "displayValue": "5522"
+                    },
+                    "pga": {
+                        "value": 3.8942172073342736,
+                        "displayValue": "3.9"
+                    }
+                },
+                "weaponKillsAbility": {
+                    "statId": "weaponKillsAbility",
+                    "basic": {
+                        "value": 32.0,
+                        "displayValue": "32"
+                    },
+                    "pga": {
+                        "value": 0.022566995768688293,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsBeamRifle": {
+                    "statId": "weaponKillsBeamRifle",
+                    "basic": {
+                        "value": 578.0,
+                        "displayValue": "578"
+                    },
+                    "pga": {
+                        "value": 0.40761636107193228,
+                        "displayValue": "0.4"
+                    }
+                },
+                "weaponKillsBow": {
+                    "statId": "weaponKillsBow",
+                    "basic": {
+                        "value": 3422.0,
+                        "displayValue": "3422"
+                    },
+                    "pga": {
+                        "value": 2.4132581100141044,
+                        "displayValue": "2.4"
+                    }
+                },
+                "weaponKillsPrecisionKillsAutoRifle": {
+                    "statId": "weaponKillsPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 0.27266483516483514,
+                        "displayValue": "27%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBeamRifle": {
+                    "statId": "weaponKillsPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 0.20761245674740483,
+                        "displayValue": "21%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBow": {
+                    "statId": "weaponKillsPrecisionKillsBow",
+                    "basic": {
+                        "value": 0.29251899473991816,
+                        "displayValue": "29%"
+                    }
+                },
+                "weaponKillsPrecisionKillsFusionRifle": {
+                    "statId": "weaponKillsPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenade": {
+                    "statId": "weaponKillsPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenadeLauncher": {
+                    "statId": "weaponKillsPrecisionKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsHandCannon": {
+                    "statId": "weaponKillsPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 0.3528550512445095,
+                        "displayValue": "35%"
+                    }
+                },
+                "weaponKillsPrecisionKillsTraceRifle": {
+                    "statId": "weaponKillsPrecisionKillsTraceRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMachineGun": {
+                    "statId": "weaponKillsPrecisionKillsMachineGun",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMelee": {
+                    "statId": "weaponKillsPrecisionKillsMelee",
+                    "basic": {
+                        "value": 9.5147478591817316E-05,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsPulseRifle": {
+                    "statId": "weaponKillsPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 0.34084302325581395,
+                        "displayValue": "34%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRocketLauncher": {
+                    "statId": "weaponKillsPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsScoutRifle": {
+                    "statId": "weaponKillsPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 0.35294117647058826,
+                        "displayValue": "35%"
+                    }
+                },
+                "weaponKillsPrecisionKillsShotgun": {
+                    "statId": "weaponKillsPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 0.18063314711359404,
+                        "displayValue": "18%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSniper": {
+                    "statId": "weaponKillsPrecisionKillsSniper",
+                    "basic": {
+                        "value": 0.50644567219152858,
+                        "displayValue": "51%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSubmachinegun": {
+                    "statId": "weaponKillsPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 0.19001474615546662,
+                        "displayValue": "19%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSuper": {
+                    "statId": "weaponKillsPrecisionKillsSuper",
+                    "basic": {
+                        "value": 0.0091190108191653782,
+                        "displayValue": "1%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRelic": {
+                    "statId": "weaponKillsPrecisionKillsRelic",
+                    "basic": {
+                        "value": 0.00090702947845804993,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSideArm": {
+                    "statId": "weaponKillsPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 0.25556261919898282,
+                        "displayValue": "26%"
+                    }
+                }
+            }
+        },
+        "allPvE": {
+            "allTime": {
+                "weaponPrecisionKillsAutoRifle": {
+                    "statId": "weaponPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 5882.0,
+                        "displayValue": "5882"
+                    },
+                    "pga": {
+                        "value": 0.933947284852334,
+                        "displayValue": "0.9"
+                    }
+                },
+                "activitiesEntered": {
+                    "statId": "activitiesEntered",
+                    "basic": {
+                        "value": 6298.0,
+                        "displayValue": "6298"
+                    }
+                },
+                "weaponPrecisionKillsBeamRifle": {
+                    "statId": "weaponPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 821.0,
+                        "displayValue": "821"
+                    },
+                    "pga": {
+                        "value": 0.13035884407748491,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponPrecisionKillsBow": {
+                    "statId": "weaponPrecisionKillsBow",
+                    "basic": {
+                        "value": 2574.0,
+                        "displayValue": "2574"
+                    },
+                    "pga": {
+                        "value": 0.40870117497618291,
+                        "displayValue": "0.4"
+                    }
+                },
+                "weaponPrecisionKillsFusionRifle": {
+                    "statId": "weaponPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsGrenade": {
+                    "statId": "weaponPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 1.0,
+                        "displayValue": "1"
+                    },
+                    "pga": {
+                        "value": 0.00015878056525881233,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsHandCannon": {
+                    "statId": "weaponPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 4821.0,
+                        "displayValue": "4821"
+                    },
+                    "pga": {
+                        "value": 0.76548110511273415,
+                        "displayValue": "0.8"
+                    }
+                },
+                "weaponPrecisionKillsMelee": {
+                    "statId": "weaponPrecisionKillsMelee",
+                    "basic": {
+                        "value": 21.0,
+                        "displayValue": "21"
+                    },
+                    "pga": {
+                        "value": 0.0033343918704350586,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsPulseRifle": {
+                    "statId": "weaponPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 4410.0,
+                        "displayValue": "4410"
+                    },
+                    "pga": {
+                        "value": 0.70022229279136239,
+                        "displayValue": "0.7"
+                    }
+                },
+                "weaponPrecisionKillsRocketLauncher": {
+                    "statId": "weaponPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsScoutRifle": {
+                    "statId": "weaponPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 2964.0,
+                        "displayValue": "2964"
+                    },
+                    "pga": {
+                        "value": 0.47062559542711974,
+                        "displayValue": "0.5"
+                    }
+                },
+                "weaponPrecisionKillsShotgun": {
+                    "statId": "weaponPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 1420.0,
+                        "displayValue": "1420"
+                    },
+                    "pga": {
+                        "value": 0.2254684026675135,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponPrecisionKillsSniper": {
+                    "statId": "weaponPrecisionKillsSniper",
+                    "basic": {
+                        "value": 1513.0,
+                        "displayValue": "1513"
+                    },
+                    "pga": {
+                        "value": 0.24023499523658304,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponPrecisionKillsSubmachinegun": {
+                    "statId": "weaponPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 4840.0,
+                        "displayValue": "4840"
+                    },
+                    "pga": {
+                        "value": 0.76849793585265158,
+                        "displayValue": "0.8"
+                    }
+                },
+                "weaponPrecisionKillsSuper": {
+                    "statId": "weaponPrecisionKillsSuper",
+                    "basic": {
+                        "value": 155.0,
+                        "displayValue": "155"
+                    },
+                    "pga": {
+                        "value": 0.02461098761511591,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsRelic": {
+                    "statId": "weaponPrecisionKillsRelic",
+                    "basic": {
+                        "value": 10.0,
+                        "displayValue": "10"
+                    },
+                    "pga": {
+                        "value": 0.0015878056525881232,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsSideArm": {
+                    "statId": "weaponPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 1618.0,
+                        "displayValue": "1618"
+                    },
+                    "pga": {
+                        "value": 0.25690695458875834,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponKillsAutoRifle": {
+                    "statId": "weaponKillsAutoRifle",
+                    "basic": {
+                        "value": 21812.0,
+                        "displayValue": "21812"
+                    },
+                    "pga": {
+                        "value": 3.4633216894252143,
+                        "displayValue": "3.5"
+                    }
+                },
+                "weaponKillsFusionRifle": {
+                    "statId": "weaponKillsFusionRifle",
+                    "basic": {
+                        "value": 5806.0,
+                        "displayValue": "5806"
+                    },
+                    "pga": {
+                        "value": 0.9218799618926643,
+                        "displayValue": "0.9"
+                    }
+                },
+                "weaponKillsGrenade": {
+                    "statId": "weaponKillsGrenade",
+                    "basic": {
+                        "value": 34709.0,
+                        "displayValue": "34709"
+                    },
+                    "pga": {
+                        "value": 5.5111146395681168,
+                        "displayValue": "5.5"
+                    }
+                },
+                "weaponKillsGrenadeLauncher": {
+                    "statId": "weaponKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 33797.0,
+                        "displayValue": "33797"
+                    },
+                    "pga": {
+                        "value": 5.36630676405208,
+                        "displayValue": "5.4"
+                    }
+                },
+                "weaponKillsHandCannon": {
+                    "statId": "weaponKillsHandCannon",
+                    "basic": {
+                        "value": 13252.0,
+                        "displayValue": "13252"
+                    },
+                    "pga": {
+                        "value": 2.1041600508097811,
+                        "displayValue": "2.1"
+                    }
+                },
+                "weaponKillsTraceRifle": {
+                    "statId": "weaponKillsTraceRifle",
+                    "basic": {
+                        "value": 1153.0,
+                        "displayValue": "1153"
+                    },
+                    "pga": {
+                        "value": 0.1830739917434106,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponKillsMachineGun": {
+                    "statId": "weaponKillsMachineGun",
+                    "basic": {
+                        "value": 5315.0,
+                        "displayValue": "5315"
+                    },
+                    "pga": {
+                        "value": 0.84391870435058747,
+                        "displayValue": "0.8"
+                    }
+                },
+                "weaponKillsMelee": {
+                    "statId": "weaponKillsMelee",
+                    "basic": {
+                        "value": 43499.0,
+                        "displayValue": "43499"
+                    },
+                    "pga": {
+                        "value": 6.9067958081930776,
+                        "displayValue": "6.9"
+                    }
+                },
+                "weaponKillsPulseRifle": {
+                    "statId": "weaponKillsPulseRifle",
+                    "basic": {
+                        "value": 14462.0,
+                        "displayValue": "14462"
+                    },
+                    "pga": {
+                        "value": 2.2962845347729437,
+                        "displayValue": "2.3"
+                    }
+                },
+                "weaponKillsRocketLauncher": {
+                    "statId": "weaponKillsRocketLauncher",
+                    "basic": {
+                        "value": 6451.0,
+                        "displayValue": "6451"
+                    },
+                    "pga": {
+                        "value": 1.0242934264845982,
+                        "displayValue": "1.0"
+                    }
+                },
+                "weaponKillsScoutRifle": {
+                    "statId": "weaponKillsScoutRifle",
+                    "basic": {
+                        "value": 7967.0,
+                        "displayValue": "7967"
+                    },
+                    "pga": {
+                        "value": 1.2650047634169577,
+                        "displayValue": "1.3"
+                    }
+                },
+                "weaponKillsShotgun": {
+                    "statId": "weaponKillsShotgun",
+                    "basic": {
+                        "value": 9602.0,
+                        "displayValue": "9602"
+                    },
+                    "pga": {
+                        "value": 1.5246109876151159,
+                        "displayValue": "1.5"
+                    }
+                },
+                "weaponKillsSniper": {
+                    "statId": "weaponKillsSniper",
+                    "basic": {
+                        "value": 3556.0,
+                        "displayValue": "3556"
+                    },
+                    "pga": {
+                        "value": 0.56462369006033664,
+                        "displayValue": "0.6"
+                    }
+                },
+                "weaponKillsSubmachinegun": {
+                    "statId": "weaponKillsSubmachinegun",
+                    "basic": {
+                        "value": 23205.0,
+                        "displayValue": "23205"
+                    },
+                    "pga": {
+                        "value": 3.6845030168307398,
+                        "displayValue": "3.7"
+                    }
+                },
+                "weaponKillsSuper": {
+                    "statId": "weaponKillsSuper",
+                    "basic": {
+                        "value": 29621.0,
+                        "displayValue": "29621"
+                    },
+                    "pga": {
+                        "value": 4.7032391235312794,
+                        "displayValue": "4.7"
+                    }
+                },
+                "weaponKillsRelic": {
+                    "statId": "weaponKillsRelic",
+                    "basic": {
+                        "value": 8261.0,
+                        "displayValue": "8261"
+                    },
+                    "pga": {
+                        "value": 1.3116862496030486,
+                        "displayValue": "1.3"
+                    }
+                },
+                "weaponKillsSideArm": {
+                    "statId": "weaponKillsSideArm",
+                    "basic": {
+                        "value": 6385.0,
+                        "displayValue": "6385"
+                    },
+                    "pga": {
+                        "value": 1.0138139091775167,
+                        "displayValue": "1.0"
+                    }
+                },
+                "weaponKillsSword": {
+                    "statId": "weaponKillsSword",
+                    "basic": {
+                        "value": 18920.0,
+                        "displayValue": "18920"
+                    },
+                    "pga": {
+                        "value": 3.0041282946967289,
+                        "displayValue": "3.0"
+                    }
+                },
+                "weaponKillsAbility": {
+                    "statId": "weaponKillsAbility",
+                    "basic": {
+                        "value": 67.0,
+                        "displayValue": "67"
+                    },
+                    "pga": {
+                        "value": 0.010638297872340425,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsBeamRifle": {
+                    "statId": "weaponKillsBeamRifle",
+                    "basic": {
+                        "value": 4623.0,
+                        "displayValue": "4623"
+                    },
+                    "pga": {
+                        "value": 0.73404255319148937,
+                        "displayValue": "0.7"
+                    }
+                },
+                "weaponKillsBow": {
+                    "statId": "weaponKillsBow",
+                    "basic": {
+                        "value": 9760.0,
+                        "displayValue": "9760"
+                    },
+                    "pga": {
+                        "value": 1.5496983169260083,
+                        "displayValue": "1.5"
+                    }
+                },
+                "weaponKillsPrecisionKillsAutoRifle": {
+                    "statId": "weaponKillsPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 0.26966807262057585,
+                        "displayValue": "27%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBeamRifle": {
+                    "statId": "weaponKillsPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 0.17759030932295047,
+                        "displayValue": "18%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBow": {
+                    "statId": "weaponKillsPrecisionKillsBow",
+                    "basic": {
+                        "value": 0.26372950819672131,
+                        "displayValue": "26%"
+                    }
+                },
+                "weaponKillsPrecisionKillsFusionRifle": {
+                    "statId": "weaponKillsPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenade": {
+                    "statId": "weaponKillsPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 2.8810971217839754E-05,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenadeLauncher": {
+                    "statId": "weaponKillsPrecisionKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsHandCannon": {
+                    "statId": "weaponKillsPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 0.36379414428010864,
+                        "displayValue": "36%"
+                    }
+                },
+                "weaponKillsPrecisionKillsTraceRifle": {
+                    "statId": "weaponKillsPrecisionKillsTraceRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMachineGun": {
+                    "statId": "weaponKillsPrecisionKillsMachineGun",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMelee": {
+                    "statId": "weaponKillsPrecisionKillsMelee",
+                    "basic": {
+                        "value": 0.00048276971884411138,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsPulseRifle": {
+                    "statId": "weaponKillsPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 0.30493707647628265,
+                        "displayValue": "30%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRocketLauncher": {
+                    "statId": "weaponKillsPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsScoutRifle": {
+                    "statId": "weaponKillsPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 0.37203464290197064,
+                        "displayValue": "37%"
+                    }
+                },
+                "weaponKillsPrecisionKillsShotgun": {
+                    "statId": "weaponKillsPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 0.14788585711310143,
+                        "displayValue": "15%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSniper": {
+                    "statId": "weaponKillsPrecisionKillsSniper",
+                    "basic": {
+                        "value": 0.42547806524184478,
+                        "displayValue": "43%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSubmachinegun": {
+                    "statId": "weaponKillsPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 0.2085757379875027,
+                        "displayValue": "21%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSuper": {
+                    "statId": "weaponKillsPrecisionKillsSuper",
+                    "basic": {
+                        "value": 0.0052327740454407344,
+                        "displayValue": "1%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRelic": {
+                    "statId": "weaponKillsPrecisionKillsRelic",
+                    "basic": {
+                        "value": 0.0012105072025178549,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSideArm": {
+                    "statId": "weaponKillsPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 0.25340642129992169,
+                        "displayValue": "25%"
+                    }
+                }
+            }
+        },
+        "allPvECompetitive": {
+            "allTime": {
+                "weaponPrecisionKillsAutoRifle": {
+                    "statId": "weaponPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 507.0,
+                        "displayValue": "507"
+                    },
+                    "pga": {
+                        "value": 0.78482972136222906,
+                        "displayValue": "0.8"
+                    }
+                },
+                "activitiesEntered": {
+                    "statId": "activitiesEntered",
+                    "basic": {
+                        "value": 646.0,
+                        "displayValue": "646"
+                    }
+                },
+                "weaponPrecisionKillsBeamRifle": {
+                    "statId": "weaponPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 10.0,
+                        "displayValue": "10"
+                    },
+                    "pga": {
+                        "value": 0.015479876160990712,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsBow": {
+                    "statId": "weaponPrecisionKillsBow",
+                    "basic": {
+                        "value": 577.0,
+                        "displayValue": "577"
+                    },
+                    "pga": {
+                        "value": 0.89318885448916407,
+                        "displayValue": "0.9"
+                    }
+                },
+                "weaponPrecisionKillsFusionRifle": {
+                    "statId": "weaponPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsGrenade": {
+                    "statId": "weaponPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsHandCannon": {
+                    "statId": "weaponPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 175.0,
+                        "displayValue": "175"
+                    },
+                    "pga": {
+                        "value": 0.27089783281733748,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponPrecisionKillsMelee": {
+                    "statId": "weaponPrecisionKillsMelee",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsPulseRifle": {
+                    "statId": "weaponPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 128.0,
+                        "displayValue": "128"
+                    },
+                    "pga": {
+                        "value": 0.19814241486068113,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponPrecisionKillsRocketLauncher": {
+                    "statId": "weaponPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsScoutRifle": {
+                    "statId": "weaponPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 38.0,
+                        "displayValue": "38"
+                    },
+                    "pga": {
+                        "value": 0.058823529411764705,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponPrecisionKillsShotgun": {
+                    "statId": "weaponPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 275.0,
+                        "displayValue": "275"
+                    },
+                    "pga": {
+                        "value": 0.42569659442724456,
+                        "displayValue": "0.4"
+                    }
+                },
+                "weaponPrecisionKillsSniper": {
+                    "statId": "weaponPrecisionKillsSniper",
+                    "basic": {
+                        "value": 64.0,
+                        "displayValue": "64"
+                    },
+                    "pga": {
+                        "value": 0.099071207430340563,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponPrecisionKillsSubmachinegun": {
+                    "statId": "weaponPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 421.0,
+                        "displayValue": "421"
+                    },
+                    "pga": {
+                        "value": 0.651702786377709,
+                        "displayValue": "0.7"
+                    }
+                },
+                "weaponPrecisionKillsSuper": {
+                    "statId": "weaponPrecisionKillsSuper",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsRelic": {
+                    "statId": "weaponPrecisionKillsRelic",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0"
+                    },
+                    "pga": {
+                        "value": 0.0,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponPrecisionKillsSideArm": {
+                    "statId": "weaponPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 58.0,
+                        "displayValue": "58"
+                    },
+                    "pga": {
+                        "value": 0.089783281733746126,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponKillsAutoRifle": {
+                    "statId": "weaponKillsAutoRifle",
+                    "basic": {
+                        "value": 1737.0,
+                        "displayValue": "1737"
+                    },
+                    "pga": {
+                        "value": 2.6888544891640866,
+                        "displayValue": "2.7"
+                    }
+                },
+                "weaponKillsFusionRifle": {
+                    "statId": "weaponKillsFusionRifle",
+                    "basic": {
+                        "value": 329.0,
+                        "displayValue": "329"
+                    },
+                    "pga": {
+                        "value": 0.50928792569659442,
+                        "displayValue": "0.5"
+                    }
+                },
+                "weaponKillsGrenade": {
+                    "statId": "weaponKillsGrenade",
+                    "basic": {
+                        "value": 2333.0,
+                        "displayValue": "2333"
+                    },
+                    "pga": {
+                        "value": 3.6114551083591331,
+                        "displayValue": "3.6"
+                    }
+                },
+                "weaponKillsGrenadeLauncher": {
+                    "statId": "weaponKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 1802.0,
+                        "displayValue": "1802"
+                    },
+                    "pga": {
+                        "value": 2.7894736842105261,
+                        "displayValue": "2.8"
+                    }
+                },
+                "weaponKillsHandCannon": {
+                    "statId": "weaponKillsHandCannon",
+                    "basic": {
+                        "value": 545.0,
+                        "displayValue": "545"
+                    },
+                    "pga": {
+                        "value": 0.84365325077399378,
+                        "displayValue": "0.8"
+                    }
+                },
+                "weaponKillsTraceRifle": {
+                    "statId": "weaponKillsTraceRifle",
+                    "basic": {
+                        "value": 2.0,
+                        "displayValue": "2"
+                    },
+                    "pga": {
+                        "value": 0.0030959752321981426,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsMachineGun": {
+                    "statId": "weaponKillsMachineGun",
+                    "basic": {
+                        "value": 165.0,
+                        "displayValue": "165"
+                    },
+                    "pga": {
+                        "value": 0.25541795665634676,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponKillsMelee": {
+                    "statId": "weaponKillsMelee",
+                    "basic": {
+                        "value": 3883.0,
+                        "displayValue": "3883"
+                    },
+                    "pga": {
+                        "value": 6.0108359133126932,
+                        "displayValue": "6.0"
+                    }
+                },
+                "weaponKillsPulseRifle": {
+                    "statId": "weaponKillsPulseRifle",
+                    "basic": {
+                        "value": 341.0,
+                        "displayValue": "341"
+                    },
+                    "pga": {
+                        "value": 0.52786377708978327,
+                        "displayValue": "0.5"
+                    }
+                },
+                "weaponKillsRocketLauncher": {
+                    "statId": "weaponKillsRocketLauncher",
+                    "basic": {
+                        "value": 213.0,
+                        "displayValue": "213"
+                    },
+                    "pga": {
+                        "value": 0.32972136222910214,
+                        "displayValue": "0.3"
+                    }
+                },
+                "weaponKillsScoutRifle": {
+                    "statId": "weaponKillsScoutRifle",
+                    "basic": {
+                        "value": 87.0,
+                        "displayValue": "87"
+                    },
+                    "pga": {
+                        "value": 0.1346749226006192,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponKillsShotgun": {
+                    "statId": "weaponKillsShotgun",
+                    "basic": {
+                        "value": 1687.0,
+                        "displayValue": "1687"
+                    },
+                    "pga": {
+                        "value": 2.6114551083591331,
+                        "displayValue": "2.6"
+                    }
+                },
+                "weaponKillsSniper": {
+                    "statId": "weaponKillsSniper",
+                    "basic": {
+                        "value": 156.0,
+                        "displayValue": "156"
+                    },
+                    "pga": {
+                        "value": 0.24148606811145512,
+                        "displayValue": "0.2"
+                    }
+                },
+                "weaponKillsSubmachinegun": {
+                    "statId": "weaponKillsSubmachinegun",
+                    "basic": {
+                        "value": 1804.0,
+                        "displayValue": "1804"
+                    },
+                    "pga": {
+                        "value": 2.7925696594427243,
+                        "displayValue": "2.8"
+                    }
+                },
+                "weaponKillsSuper": {
+                    "statId": "weaponKillsSuper",
+                    "basic": {
+                        "value": 2825.0,
+                        "displayValue": "2825"
+                    },
+                    "pga": {
+                        "value": 4.3730650154798765,
+                        "displayValue": "4.4"
+                    }
+                },
+                "weaponKillsRelic": {
+                    "statId": "weaponKillsRelic",
+                    "basic": {
+                        "value": 486.0,
+                        "displayValue": "486"
+                    },
+                    "pga": {
+                        "value": 0.75232198142414863,
+                        "displayValue": "0.8"
+                    }
+                },
+                "weaponKillsSideArm": {
+                    "statId": "weaponKillsSideArm",
+                    "basic": {
+                        "value": 233.0,
+                        "displayValue": "233"
+                    },
+                    "pga": {
+                        "value": 0.36068111455108359,
+                        "displayValue": "0.4"
+                    }
+                },
+                "weaponKillsSword": {
+                    "statId": "weaponKillsSword",
+                    "basic": {
+                        "value": 388.0,
+                        "displayValue": "388"
+                    },
+                    "pga": {
+                        "value": 0.60061919504643968,
+                        "displayValue": "0.6"
+                    }
+                },
+                "weaponKillsAbility": {
+                    "statId": "weaponKillsAbility",
+                    "basic": {
+                        "value": 9.0,
+                        "displayValue": "9"
+                    },
+                    "pga": {
+                        "value": 0.01393188854489164,
+                        "displayValue": "0.0"
+                    }
+                },
+                "weaponKillsBeamRifle": {
+                    "statId": "weaponKillsBeamRifle",
+                    "basic": {
+                        "value": 39.0,
+                        "displayValue": "39"
+                    },
+                    "pga": {
+                        "value": 0.06037151702786378,
+                        "displayValue": "0.1"
+                    }
+                },
+                "weaponKillsBow": {
+                    "statId": "weaponKillsBow",
+                    "basic": {
+                        "value": 1494.0,
+                        "displayValue": "1494"
+                    },
+                    "pga": {
+                        "value": 2.3126934984520124,
+                        "displayValue": "2.3"
+                    }
+                },
+                "weaponKillsPrecisionKillsAutoRifle": {
+                    "statId": "weaponKillsPrecisionKillsAutoRifle",
+                    "basic": {
+                        "value": 0.2918825561312608,
+                        "displayValue": "29%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBeamRifle": {
+                    "statId": "weaponKillsPrecisionKillsBeamRifle",
+                    "basic": {
+                        "value": 0.25641025641025639,
+                        "displayValue": "26%"
+                    }
+                },
+                "weaponKillsPrecisionKillsBow": {
+                    "statId": "weaponKillsPrecisionKillsBow",
+                    "basic": {
+                        "value": 0.38621151271753679,
+                        "displayValue": "39%"
+                    }
+                },
+                "weaponKillsPrecisionKillsFusionRifle": {
+                    "statId": "weaponKillsPrecisionKillsFusionRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenade": {
+                    "statId": "weaponKillsPrecisionKillsGrenade",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsGrenadeLauncher": {
+                    "statId": "weaponKillsPrecisionKillsGrenadeLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsHandCannon": {
+                    "statId": "weaponKillsPrecisionKillsHandCannon",
+                    "basic": {
+                        "value": 0.32110091743119268,
+                        "displayValue": "32%"
+                    }
+                },
+                "weaponKillsPrecisionKillsTraceRifle": {
+                    "statId": "weaponKillsPrecisionKillsTraceRifle",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMachineGun": {
+                    "statId": "weaponKillsPrecisionKillsMachineGun",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsMelee": {
+                    "statId": "weaponKillsPrecisionKillsMelee",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsPulseRifle": {
+                    "statId": "weaponKillsPrecisionKillsPulseRifle",
+                    "basic": {
+                        "value": 0.375366568914956,
+                        "displayValue": "38%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRocketLauncher": {
+                    "statId": "weaponKillsPrecisionKillsRocketLauncher",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsScoutRifle": {
+                    "statId": "weaponKillsPrecisionKillsScoutRifle",
+                    "basic": {
+                        "value": 0.43678160919540232,
+                        "displayValue": "44%"
+                    }
+                },
+                "weaponKillsPrecisionKillsShotgun": {
+                    "statId": "weaponKillsPrecisionKillsShotgun",
+                    "basic": {
+                        "value": 0.16301126259632484,
+                        "displayValue": "16%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSniper": {
+                    "statId": "weaponKillsPrecisionKillsSniper",
+                    "basic": {
+                        "value": 0.41025641025641024,
+                        "displayValue": "41%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSubmachinegun": {
+                    "statId": "weaponKillsPrecisionKillsSubmachinegun",
+                    "basic": {
+                        "value": 0.23337028824833703,
+                        "displayValue": "23%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSuper": {
+                    "statId": "weaponKillsPrecisionKillsSuper",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsRelic": {
+                    "statId": "weaponKillsPrecisionKillsRelic",
+                    "basic": {
+                        "value": 0.0,
+                        "displayValue": "0%"
+                    }
+                },
+                "weaponKillsPrecisionKillsSideArm": {
+                    "statId": "weaponKillsPrecisionKillsSideArm",
+                    "basic": {
+                        "value": 0.24892703862660945,
+                        "displayValue": "25%"
+                    }
+                }
+            }
+        }
+    },
+    "ErrorCode": 1,
+    "ThrottleSeconds": 0,
+    "ErrorStatus": "Success",
+    "Message": "Ok",
+    "MessageData": {}
+}
