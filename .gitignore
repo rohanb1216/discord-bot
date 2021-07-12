@@ -3,3 +3,5 @@
 manifest.sqlite3
 *.content
 MANZIP
+.vscode/settings.json
+manifest.pickle
