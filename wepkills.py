@@ -72,7 +72,7 @@ for i in resobj['weapons']:
 
 print(len(valarray))
 
-valarray = sorted(valarray, key=itemgetter('uniqueWeaponKills'), reverse=True)
+valarray = sorted(valarray, key=itemgetter('Kills'), reverse=True)
 
 
 df = pd.DataFrame(valarray)
