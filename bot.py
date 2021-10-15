@@ -3,6 +3,9 @@ from discord.ext import commands, tasks
 import requests
 import sqlite3
 import db_stuff
+from read_token import botToken
+
+token = botToken()
 
 db_file = "d2.db"
 conn = db_stuff.create_connection(db_file)
@@ -89,4 +92,4 @@ async def pvp_wep(ctx):
 
 
 
-client.run("ODQ4NTM5MjAwODE4NjQyOTQ1.YLOFtg._5QaUTQLnVL6BNNvvpPHgUiDbAI")
+client.run(token)

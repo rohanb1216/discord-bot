@@ -1,5 +1,8 @@
 import discord
 from discord.ext import commands, tasks
+from read_token import botToken
+
+token = botToken()
 
 client = commands.Bot(command_prefix='.')
 
@@ -78,4 +81,4 @@ async def hello(ctx):
 
 # Need to add embeds
 
-client.run("ODQ4NTM5MjAwODE4NjQyOTQ1.YLOFtg._5QaUTQLnVL6BNNvvpPHgUiDbAI")
+client.run(token)
